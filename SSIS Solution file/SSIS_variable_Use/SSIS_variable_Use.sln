@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_variable_Use", "SSIS_variable_Use\SSIS_variable_Use.dtproj", "{390705C0-8B2D-4D6C-A7C6-24DAA2F7D715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390705C0-8B2D-4D6C-A7C6-24DAA2F7D715}.Development|Default.ActiveCfg = Development
+		{390705C0-8B2D-4D6C-A7C6-24DAA2F7D715}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

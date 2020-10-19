@@ -1,0 +1,1340 @@
+Product_id,Product,,SubKey,Subcategory,CatKey,Category,City,State,country,Quantity,SalesAmout,TaxAmount,Year
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Ballard,Washington,United States,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Ballard,Washington,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Beaverton,Oregon,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Beaverton,Oregon,United States,13,454.87,36.3896,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bellflower,California,United States,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bellflower,California,United States,12,419.88,33.5904,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bellingham,Washington,United States,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bellingham,Washington,United States,13,454.87,36.3896,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bendigo,Victoria,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bendigo,Victoria,Australia,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berkeley,California,United States,12,419.88,33.5904,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berkeley,California,United States,10,349.9,27.992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berks,England,United Kingdom,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berkshire,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berlin,Hamburg,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berlin,Hessen,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berlin,Hessen,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berlin,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berlin,Nordrhein-Westfalen,Germany,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berlin,Saarland,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Berlin,Saarland,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Beverly Hills,California,United States,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Beverly Hills,California,United States,12,419.88,33.5904,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Billericay,England,United Kingdom,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Billericay,England,United Kingdom,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Birmingham,England,United Kingdom,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Birmingham,England,United Kingdom,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bobigny,Seine Saint Denis,France,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bobigny,Seine Saint Denis,France,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bonn,Hamburg,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bonn,Hamburg,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bonn,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bonn,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bottrop,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bottrop,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Boulogne-Billancourt,Hauts de Seine,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Boulogne-Billancourt,Hauts de Seine,France,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Boulogne-sur-Mer,Pas de Calais,France,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bountiful,Utah,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bracknell,England,United Kingdom,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bradenton,Florida,United States,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Braunschweig,Nordrhein-Westfalen,Germany,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bremerton,Washington,United States,10,349.9,27.992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bremerton,Washington,United States,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Brisbane,Queensland,Australia,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Brisbane,Queensland,Australia,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Burbank,California,United States,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Burbank,California,United States,15,524.85,41.988,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Burien,Washington,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Burien,Washington,United States,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Burlingame,California,United States,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Burlingame,California,United States,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Burnaby,British Columbia,Canada,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bury,England,United Kingdom,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Bury,England,United Kingdom,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Caloundra,Queensland,Australia,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Caloundra,Queensland,Australia,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cambridge,England,United Kingdom,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cambridge,England,United Kingdom,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Campbellsville,Kentucky,United States,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cedar Park,Texas,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cergy,Val d'Oise,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cergy,Val d'Oise,France,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Chatou,Yveline,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Chatou,Yveline,France,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cheltenham,England,United Kingdom,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cheltenham,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Chula Vista,California,United States,12,419.88,33.5904,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Chula Vista,California,United States,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Clay,New York,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cliffside,British Columbia,Canada,14,489.86,39.1888,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cliffside,British Columbia,Canada,22,769.78,61.5824,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cloverdale,South Australia,Australia,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cloverdale,South Australia,Australia,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Coffs Harbour,New South Wales,Australia,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Coffs Harbour,New South Wales,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Colma,California,United States,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Colma,California,United States,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Colombes,Hauts de Seine,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Colombes,Hauts de Seine,France,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Colomiers,Garonne (Haute),France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Colomiers,Garonne (Haute),France,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Concord,California,United States,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Concord,California,United States,13,454.87,36.3896,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Coronado,California,United States,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Coronado,California,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Corvallis,Oregon,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Corvallis,Oregon,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Courbevoie,Hauts de Seine,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cranbourne,Victoria,Australia,9,314.91,25.1928,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Cranbourne,Victoria,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Croix,Nord,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Croix,Nord,France,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Daly City,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Daly City,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Darlinghurst,New South Wales,Australia,9,314.91,25.1928,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Darlinghurst,New South Wales,Australia,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Darmstadt,Hessen,Germany,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Darmstadt,Hessen,Germany,14,489.86,39.1888,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Downey,California,United States,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Downey,California,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Drancy,Seine Saint Denis,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Drancy,Seine Saint Denis,France,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Dresden,Hessen,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Dresden,Hessen,Germany,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Duesseldorf,Hessen,Germany,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Dunkerque,Nord,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Dunkerque,Nord,France,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,East Brisbane,Queensland,Australia,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,East Brisbane,Queensland,Australia,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Edmonds,Washington,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Edmonds,Washington,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Eilenburg,Brandenburg,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Eilenburg,Brandenburg,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,El Cajon,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,El Cajon,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Erlangen,Bayern,Germany,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Erlangen,Bayern,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Esher-Molesey,England,United Kingdom,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Esher-Molesey,England,United Kingdom,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Essen,Hamburg,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Essen,Hamburg,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Everett,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Everett,Washington,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Findon,South Australia,Australia,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Findon,South Australia,Australia,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Frankfurt,Bayern,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Frankfurt,Hessen,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Frankfurt,Hessen,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Frankfurt am Main,Hamburg,Germany,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Frankfurt am Main,Saarland,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Frankfurt am Main,Saarland,Germany,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Fremont,California,United States,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Fremont,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Gateshead,England,United Kingdom,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Gateshead,England,United Kingdom,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Geelong,Victoria,Australia,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Geelong,Victoria,Australia,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Glendale,California,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Glendale,California,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Gloucestershire,England,United Kingdom,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Gloucestershire,England,United Kingdom,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Gold Coast,Queensland,Australia,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Gold Coast,Queensland,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Goulburn,New South Wales,Australia,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Goulburn,New South Wales,Australia,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Grevenbroich,Bayern,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Grevenbroich,Bayern,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Grossmont,California,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Grossmont,California,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hamburg,Hamburg,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hamburg,Hamburg,Germany,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hamburg,Hessen,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hamburg,Hessen,Germany,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Haney,British Columbia,Canada,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Haney,British Columbia,Canada,11,384.89,30.7912,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hawthorne,Queensland,Australia,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hawthorne,Queensland,Australia,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hervey Bay,Queensland,Australia,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hervey Bay,Queensland,Australia,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,High Wycombe,England,United Kingdom,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,High Wycombe,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hobart,Tasmania,Australia,9,314.91,25.1928,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hobart,Tasmania,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hof,Bayern,Germany,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Hof,Bayern,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Imperial Beach,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Imperial Beach,California,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Ingolstadt,Bayern,Germany,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Ingolstadt,Bayern,Germany,11,384.89,30.7912,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Issaquah,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Issaquah,Washington,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Kassel,Hessen,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Kassel,Hessen,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Kiel,Saarland,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Kirkby,England,United Kingdom,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Kirkby,England,United Kingdom,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Kirkland,Washington,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Kirkland,Washington,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,La Jolla,California,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,La Jolla,California,United States,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lake Oswego,Oregon,United States,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lake Oswego,Oregon,United States,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lakewood,California,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lakewood,California,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lancaster,England,United Kingdom,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lancaster,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lane Cove,New South Wales,Australia,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lane Cove,New South Wales,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Langford,British Columbia,Canada,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Langford,British Columbia,Canada,14,489.86,39.1888,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Langley,British Columbia,Canada,9,314.91,25.1928,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Langley,British Columbia,Canada,13,454.87,36.3896,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lavender Bay,New South Wales,Australia,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lavender Bay,New South Wales,Australia,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lebanon,Oregon,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lebanon,Oregon,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Leeds,England,United Kingdom,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Leeds,England,United Kingdom,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Leipzig,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Leipzig,Nordrhein-Westfalen,Germany,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lemon Grove,California,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lemon Grove,California,United States,10,349.9,27.992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Les Ulis,Essonne,France,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Les Ulis,Essonne,France,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lieusaint,Seine et Marne,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lieusaint,Seine et Marne,France,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lille,Nord,France,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lille,Nord,France,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lincoln Acres,California,United States,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lincoln Acres,California,United States,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Liverpool,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,London,England,United Kingdom,27,944.73,75.5784,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,London,England,United Kingdom,37,1294.63,103.5704,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Long Beach,California,United States,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Long Beach,California,United States,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Los Angeles,California,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Los Angeles,California,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lynnwood,Washington,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Lynnwood,Washington,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Maidenhead,England,United Kingdom,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Maidenhead,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Malabar,New South Wales,Australia,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Malabar,New South Wales,Australia,10,349.9,27.992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Marysville,Washington,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Marysville,Washington,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Matraville,New South Wales,Australia,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Matraville,New South Wales,Australia,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Melbourne,Victoria,Australia,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Melbourne,Victoria,Australia,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Melton,Victoria,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Melton,Victoria,Australia,14,489.86,39.1888,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Metchosin,British Columbia,Canada,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Metchosin,British Columbia,Canada,13,454.87,36.3896,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Metz,Moselle,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Metz,Moselle,France,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Mill Valley,California,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Mill Valley,California,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Milsons Point,New South Wales,Australia,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Milsons Point,New South Wales,Australia,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Milton Keynes,England,United Kingdom,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Milton Keynes,England,United Kingdom,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Milwaukie,Oregon,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Milwaukie,Oregon,United States,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Morangis,Essonne,France,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Mühlheim,Hamburg,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Mühlheim,Hamburg,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,München,Hessen,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,München,Hessen,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,München,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Münster,Saarland,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Münster,Saarland,Germany,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,N. Vancouver,British Columbia,Canada,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,N. Vancouver,British Columbia,Canada,16,559.84,44.7872,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,National City,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,National City,California,United States,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Neunkirchen,Saarland,Germany,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Neunkirchen,Saarland,Germany,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newcastle,New South Wales,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newcastle,New South Wales,Australia,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newcastle upon Tyne,England,United Kingdom,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newcastle upon Tyne,England,United Kingdom,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newport Beach,California,United States,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newport Beach,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newton,British Columbia,Canada,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Newton,British Columbia,Canada,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,North Ryde,New South Wales,Australia,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,North Ryde,New South Wales,Australia,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,North Sydney,New South Wales,Australia,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,North Sydney,New South Wales,Australia,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Novato,California,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Novato,California,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oak Bay,British Columbia,Canada,9,314.91,25.1928,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oak Bay,British Columbia,Canada,11,384.89,30.7912,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oakland,California,United States,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oakland,California,United States,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Offenbach,Saarland,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Offenbach,Saarland,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Olympia,Washington,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Olympia,Washington,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oregon City,Oregon,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oregon City,Oregon,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Orleans,Loiret,France,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Orleans,Loiret,France,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Orly,Val de Marne,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Orly,Val de Marne,France,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oxford,England,United Kingdom,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oxford,England,United Kingdom,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Oxon,England,United Kingdom,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paderborn,Hamburg,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paderborn,Hamburg,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paderborn,Nordrhein-Westfalen,Germany,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paderborn,Nordrhein-Westfalen,Germany,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Palo Alto,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Palo Alto,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Pantin,Seine Saint Denis,France,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Pantin,Seine Saint Denis,France,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paris,Seine (Paris),France,19,664.81,53.1848,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paris,Seine (Paris),France,36,1259.64,100.7712,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paris La Defense,Hauts de Seine,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Paris La Defense,Hauts de Seine,France,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Perth,South Australia,Australia,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Perth,South Australia,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Peterborough,England,United Kingdom,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Peterborough,England,United Kingdom,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Poing,Saarland,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Poing,Saarland,Germany,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Port Hammond,British Columbia,Canada,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Port Hammond,British Columbia,Canada,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Port Macquarie,New South Wales,Australia,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Port Macquarie,New South Wales,Australia,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Port Orchard,Washington,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Port Orchard,Washington,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Portland,Oregon,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Portland,Oregon,United States,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Puyallup,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Puyallup,Washington,United States,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Reading,England,United Kingdom,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Redmond,Washington,United States,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Redmond,Washington,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Redwood City,California,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Redwood City,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Renton,Washington,United States,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Renton,Washington,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Rhodes,New South Wales,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Rhodes,New South Wales,Australia,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Rockhampton,Queensland,Australia,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Rockhampton,Queensland,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Roissy en Brie,Seine et Marne,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Roissy en Brie,Seine et Marne,France,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Roncq,Nord,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Roncq,Nord,France,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Roubaix,Nord,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Roubaix,Nord,France,11,384.89,30.7912,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Royal Oak,British Columbia,Canada,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Royal Oak,British Columbia,Canada,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Runcorn,England,United Kingdom,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Runcorn,England,United Kingdom,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saarbrücken,Saarland,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saarbrücken,Saarland,Germany,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saarlouis,Saarland,Germany,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saarlouis,Saarland,Germany,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint Germain en Laye,Yveline,France,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint Germain en Laye,Yveline,France,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint Ouen,Charente-Maritime,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint Ouen,Charente-Maritime,France,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint Ouen,Loir et Cher,France,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint Ouen,Somme,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint Ouen,Somme,France,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint-Denis,Seine Saint Denis,France,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Saint-Denis,Seine Saint Denis,France,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Salem,Oregon,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Salem,Oregon,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Salzgitter,Hessen,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Salzgitter,Hessen,Germany,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Carlos,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Carlos,California,United States,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Diego,California,United States,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Diego,California,United States,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Francisco,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Francisco,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Gabriel,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,San Gabriel,California,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Santa Cruz,California,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Santa Cruz,California,United States,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Santa Monica,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Santa Monica,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Seaford,Victoria,Australia,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Seaford,Victoria,Australia,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Seattle,Washington,United States,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Seattle,Washington,United States,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sedro Woolley,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sedro Woolley,Washington,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sèvres,Hauts de Seine,France,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sèvres,Hauts de Seine,France,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Shawnee,British Columbia,Canada,12,419.88,33.5904,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Shawnee,British Columbia,Canada,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Silverwater,New South Wales,Australia,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Silverwater,New South Wales,Australia,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Solingen,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Solingen,Nordrhein-Westfalen,Germany,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sooke,British Columbia,Canada,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sooke,British Columbia,Canada,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,South Melbourne,Victoria,Australia,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,South Melbourne,Victoria,Australia,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Spokane,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Spokane,Washington,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Spring Valley,California,United States,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Spring Valley,California,United States,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Springwood,New South Wales,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Springwood,New South Wales,Australia,10,349.9,27.992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,St. Leonards,New South Wales,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,St. Leonards,New South Wales,Australia,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Stoke-on-Trent,England,United Kingdom,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Stoke-on-Trent,England,United Kingdom,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Stuttgart,Saarland,Germany,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Stuttgart,Saarland,Germany,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sulzbach Taunus,Saarland,Germany,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sulzbach Taunus,Saarland,Germany,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sunbury,Victoria,Australia,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sunbury,Victoria,Australia,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Suresnes,Hauts de Seine,France,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sydney,New South Wales,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Sydney,New South Wales,Australia,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Tacoma,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Tacoma,Washington,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Torrance,California,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Torrance,California,United States,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Townsville,Queensland,Australia,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Townsville,Queensland,Australia,10,349.9,27.992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Tremblay-en-France,Seine Saint Denis,France,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Tremblay-en-France,Seine Saint Denis,France,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Vancouver,British Columbia,Canada,6,209.94,16.7952,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Vancouver,British Columbia,Canada,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Verrieres Le Buisson,Essonne,France,1,34.99,2.7992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Versailles,Yveline,France,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Versailles,Yveline,France,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Victoria,British Columbia,Canada,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Victoria,British Columbia,Canada,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Villeneuve-d'Ascq,Nord,France,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Villeneuve-d'Ascq,Nord,France,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,W. Linn,Oregon,United States,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,W. Linn,Oregon,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,W. York,England,United Kingdom,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,W. York,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Walla Walla,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Walla Walla,Washington,United States,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Warrington,England,United Kingdom,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Warrington,England,United Kingdom,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Warrnambool,Victoria,Australia,7,244.93,19.5944,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Warrnambool,Victoria,Australia,9,314.91,25.1928,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Watford,England,United Kingdom,4,139.96,11.1968,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Watford,England,United Kingdom,10,349.9,27.992,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Werne,Nordrhein-Westfalen,Germany,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Werne,Nordrhein-Westfalen,Germany,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,West Covina,California,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,West Covina,California,United States,5,174.95,13.996,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,West Sussex,England,United Kingdom,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,West Sussex,England,United Kingdom,2,69.98,5.5984,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Westminster,British Columbia,Canada,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Westminster,British Columbia,Canada,8,279.92,22.3936,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Wokingham,England,United Kingdom,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Wokingham,England,United Kingdom,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Wollongong,New South Wales,Australia,5,174.95,13.996,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Wollongong,New South Wales,Australia,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Woodburn,Oregon,United States,1,34.99,2.7992,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Woodburn,Oregon,United States,7,244.93,19.5944,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Woodland Hills,California,United States,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Woodland Hills,California,United States,6,209.94,16.7952,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Woolston,England,United Kingdom,2,69.98,5.5984,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Woolston,England,United Kingdom,4,139.96,11.1968,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Yakima,Washington,United States,3,104.97,8.3976,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,Yakima,Washington,United States,3,104.97,8.3976,2008
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,York,England,United Kingdom,8,279.92,22.3936,2007
+214,Sport-100 Helmet, Red,31,Helmets,4,Accessories,York,England,United Kingdom,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Ballard,Washington,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Ballard,Washington,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Beaverton,Oregon,United States,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Beaverton,Oregon,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bellflower,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bellflower,California,United States,13,454.87,36.3896,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bellingham,Washington,United States,7,244.93,19.5944,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bellingham,Washington,United States,11,384.89,30.7912,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bendigo,Victoria,Australia,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bendigo,Victoria,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berkeley,California,United States,11,384.89,30.7912,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berkeley,California,United States,11,384.89,30.7912,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berks,England,United Kingdom,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berks,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berkshire,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berkshire,England,United Kingdom,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Hamburg,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Hamburg,Germany,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Hessen,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Hessen,Germany,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Nordrhein-Westfalen,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Saarland,Germany,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Berlin,Saarland,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Beverly Hills,California,United States,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Beverly Hills,California,United States,13,454.87,36.3896,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Billericay,England,United Kingdom,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Billericay,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Birmingham,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Birmingham,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bobigny,Seine Saint Denis,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bobigny,Seine Saint Denis,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bonn,Hamburg,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bonn,Hamburg,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bothell,Washington,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bottrop,Nordrhein-Westfalen,Germany,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bottrop,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Boulogne-Billancourt,Hauts de Seine,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Boulogne-Billancourt,Hauts de Seine,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Boulogne-sur-Mer,Pas de Calais,France,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bracknell,England,United Kingdom,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bracknell,England,United Kingdom,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Braunschweig,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Braunschweig,Nordrhein-Westfalen,Germany,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bremerton,Washington,United States,11,384.89,30.7912,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bremerton,Washington,United States,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Brisbane,Queensland,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Brisbane,Queensland,Australia,11,384.89,30.7912,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burbank,California,United States,7,244.93,19.5944,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burbank,California,United States,14,489.86,39.1888,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burien,Washington,United States,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burien,Washington,United States,11,384.89,30.7912,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burlingame,California,United States,9,314.91,25.1928,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burlingame,California,United States,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burnaby,British Columbia,Canada,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Burnaby,British Columbia,Canada,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bury,England,United Kingdom,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Bury,England,United Kingdom,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Calgary,Alberta,Canada,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Caloundra,Queensland,Australia,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Caloundra,Queensland,Australia,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cambridge,England,United Kingdom,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cambridge,England,United Kingdom,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Carrollton,Texas,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Casper,Wyoming,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cedar City,Utah,United States,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cergy,Val d'Oise,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cergy,Val d'Oise,France,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Chantilly,Virginia,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Chatou,Yveline,France,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Chatou,Yveline,France,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cheltenham,England,United Kingdom,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cheltenham,England,United Kingdom,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Chula Vista,California,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Chula Vista,California,United States,19,664.81,53.1848,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cincinnati,Ohio,United States,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cincinnati,Ohio,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cliffside,British Columbia,Canada,16,559.84,44.7872,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cliffside,British Columbia,Canada,10,349.9,27.992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cloverdale,South Australia,Australia,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cloverdale,South Australia,Australia,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Coffs Harbour,New South Wales,Australia,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Coffs Harbour,New South Wales,Australia,10,349.9,27.992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Colma,California,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Colma,California,United States,13,454.87,36.3896,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Colombes,Hauts de Seine,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Colombes,Hauts de Seine,France,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Colomiers,Garonne (Haute),France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Colomiers,Garonne (Haute),France,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Concord,California,United States,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Concord,California,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Coronado,California,United States,7,244.93,19.5944,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Coronado,California,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Corvallis,Oregon,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Corvallis,Oregon,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Courbevoie,Hauts de Seine,France,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cranbourne,Victoria,Australia,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Cranbourne,Victoria,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Croix,Nord,France,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Daly City,California,United States,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Daly City,California,United States,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Darlinghurst,New South Wales,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Darlinghurst,New South Wales,Australia,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Darmstadt,Hessen,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Darmstadt,Hessen,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Downey,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Downey,California,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Drancy,Seine Saint Denis,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Drancy,Seine Saint Denis,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Dresden,Hessen,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Dresden,Hessen,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Duesseldorf,Hessen,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Duesseldorf,Hessen,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Dunkerque,Nord,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Dunkerque,Nord,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,East Brisbane,Queensland,Australia,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,East Brisbane,Queensland,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Edmonds,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Edmonds,Washington,United States,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Eilenburg,Brandenburg,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Eilenburg,Brandenburg,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,El Cajon,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,El Cajon,California,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Erlangen,Bayern,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Erlangen,Bayern,Germany,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Esher-Molesey,England,United Kingdom,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Esher-Molesey,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Essen,Hamburg,Germany,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Essen,Hamburg,Germany,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Everett,Washington,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Everett,Washington,United States,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Findon,South Australia,Australia,7,244.93,19.5944,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Findon,South Australia,Australia,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Frankfurt,Bayern,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Frankfurt,Bayern,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Frankfurt,Hessen,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Frankfurt,Hessen,Germany,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Frankfurt am Main,Hamburg,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Frankfurt am Main,Saarland,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Frankfurt am Main,Saarland,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Fremont,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Fremont,California,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Gateshead,England,United Kingdom,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Gateshead,England,United Kingdom,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Geelong,Victoria,Australia,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Geelong,Victoria,Australia,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Glendale,California,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Glendale,California,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Gloucestershire,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Gloucestershire,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Gold Coast,Queensland,Australia,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Gold Coast,Queensland,Australia,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Goulburn,New South Wales,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Goulburn,New South Wales,Australia,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Grevenbroich,Bayern,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Grevenbroich,Bayern,Germany,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Grossmont,California,United States,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Grossmont,California,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hamburg,Hamburg,Germany,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hamburg,Hamburg,Germany,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hamburg,Hessen,Germany,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hamburg,Hessen,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Haney,British Columbia,Canada,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Haney,British Columbia,Canada,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hannover,Nordrhein-Westfalen,Germany,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hannover,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hawthorne,Queensland,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hawthorne,Queensland,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hervey Bay,Queensland,Australia,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hervey Bay,Queensland,Australia,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,High Wycombe,England,United Kingdom,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,High Wycombe,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hobart,Tasmania,Australia,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hobart,Tasmania,Australia,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hof,Bayern,Germany,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Hof,Bayern,Germany,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Imperial Beach,California,United States,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Imperial Beach,California,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Ingolstadt,Bayern,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Ingolstadt,Bayern,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Issaquah,Washington,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Issaquah,Washington,United States,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kassel,Hessen,Germany,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kassel,Hessen,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kiel,Saarland,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kiel,Saarland,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kirkby,England,United Kingdom,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kirkby,England,United Kingdom,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kirkland,Washington,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Kirkland,Washington,United States,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,La Jolla,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,La Jolla,California,United States,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lake Oswego,Oregon,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lake Oswego,Oregon,United States,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lakewood,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lakewood,California,United States,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lancaster,England,United Kingdom,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lancaster,England,United Kingdom,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lane Cove,New South Wales,Australia,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lane Cove,New South Wales,Australia,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Langford,British Columbia,Canada,10,349.9,27.992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Langford,British Columbia,Canada,12,419.88,33.5904,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Langley,British Columbia,Canada,9,314.91,25.1928,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Langley,British Columbia,Canada,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lavender Bay,New South Wales,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lavender Bay,New South Wales,Australia,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lebanon,Oregon,United States,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lebanon,Oregon,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Leeds,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Leeds,England,United Kingdom,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Leipzig,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Leipzig,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lemon Grove,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lemon Grove,California,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Les Ulis,Essonne,France,10,349.9,27.992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Les Ulis,Essonne,France,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lieusaint,Seine et Marne,France,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lieusaint,Seine et Marne,France,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lille,Nord,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lille,Nord,France,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lincoln Acres,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lincoln Acres,California,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Liverpool,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Liverpool,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,London,England,United Kingdom,30,1049.7,83.976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,London,England,United Kingdom,39,1364.61,109.1688,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Long Beach,California,United States,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Long Beach,California,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Los Angeles,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Los Angeles,California,United States,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lynnwood,Washington,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Lynnwood,Washington,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Maidenhead,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Malabar,New South Wales,Australia,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Malabar,New South Wales,Australia,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Marysville,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Marysville,Washington,United States,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Matraville,New South Wales,Australia,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Matraville,New South Wales,Australia,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Melbourne,Victoria,Australia,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Melbourne,Victoria,Australia,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Melton,Victoria,Australia,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Melton,Victoria,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Metchosin,British Columbia,Canada,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Metchosin,British Columbia,Canada,15,524.85,41.988,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Metz,Moselle,France,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Metz,Moselle,France,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Mill Valley,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Mill Valley,California,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Milsons Point,New South Wales,Australia,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Milsons Point,New South Wales,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Milton Keynes,England,United Kingdom,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Milton Keynes,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Milwaukie,Oregon,United States,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Milwaukie,Oregon,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Morangis,Essonne,France,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Mühlheim,Hamburg,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Mühlheim,Hamburg,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,München,Hamburg,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,München,Hamburg,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,München,Hessen,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,München,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,München,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Münster,Saarland,Germany,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Münster,Saarland,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,N. Vancouver,British Columbia,Canada,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,N. Vancouver,British Columbia,Canada,12,419.88,33.5904,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,National City,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,National City,California,United States,10,349.9,27.992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Neunkirchen,Saarland,Germany,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Neunkirchen,Saarland,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newcastle,New South Wales,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newcastle,New South Wales,Australia,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newcastle upon Tyne,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newcastle upon Tyne,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newport Beach,California,United States,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newport Beach,California,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newton,British Columbia,Canada,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Newton,British Columbia,Canada,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,North Ryde,New South Wales,Australia,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,North Ryde,New South Wales,Australia,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,North Sydney,New South Wales,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,North Sydney,New South Wales,Australia,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Novato,California,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Novato,California,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oak Bay,British Columbia,Canada,7,244.93,19.5944,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oak Bay,British Columbia,Canada,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oakland,California,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oakland,California,United States,10,349.9,27.992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Offenbach,Saarland,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Offenbach,Saarland,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Olympia,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Olympia,Washington,United States,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oregon City,Oregon,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oregon City,Oregon,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Orleans,Loiret,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Orleans,Loiret,France,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Orly,Val de Marne,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Orly,Val de Marne,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oxford,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oxford,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Oxon,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paderborn,Hamburg,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paderborn,Hamburg,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paderborn,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paderborn,Nordrhein-Westfalen,Germany,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Palo Alto,California,United States,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Palo Alto,California,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Pantin,Seine Saint Denis,France,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Pantin,Seine Saint Denis,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paris,Seine (Paris),France,21,734.79,58.7832,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paris,Seine (Paris),France,25,874.75,69.98,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paris La Defense,Hauts de Seine,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Paris La Defense,Hauts de Seine,France,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Perth,South Australia,Australia,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Perth,South Australia,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Peterborough,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Peterborough,England,United Kingdom,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Poing,Saarland,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Port Hammond,British Columbia,Canada,6,209.94,16.7952,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Port Hammond,British Columbia,Canada,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Port Macquarie,New South Wales,Australia,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Port Macquarie,New South Wales,Australia,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Port Orchard,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Port Orchard,Washington,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Portland,Oregon,United States,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Portland,Oregon,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Puyallup,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Puyallup,Washington,United States,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Reading,England,United Kingdom,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Reading,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Redmond,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Redmond,Washington,United States,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Redwood City,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Redwood City,California,United States,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Renton,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Renton,Washington,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Rhodes,New South Wales,Australia,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Rhodes,New South Wales,Australia,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Rockhampton,Queensland,Australia,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Rockhampton,Queensland,Australia,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Roissy en Brie,Seine et Marne,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Roissy en Brie,Seine et Marne,France,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Roncq,Nord,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Roubaix,Nord,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Roubaix,Nord,France,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Royal Oak,British Columbia,Canada,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Royal Oak,British Columbia,Canada,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Runcorn,England,United Kingdom,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Runcorn,England,United Kingdom,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saarbrücken,Saarland,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saarbrücken,Saarland,Germany,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saarlouis,Saarland,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saarlouis,Saarland,Germany,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Germain en Laye,Yveline,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Germain en Laye,Yveline,France,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Ouen,Charente-Maritime,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Ouen,Charente-Maritime,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Ouen,Loir et Cher,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Ouen,Loir et Cher,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Ouen,Somme,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint Ouen,Somme,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Saint-Denis,Seine Saint Denis,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Salem,Oregon,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Salzgitter,Hessen,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Salzgitter,Hessen,Germany,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Carlos,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Carlos,California,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Diego,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Diego,California,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Francisco,California,United States,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Francisco,California,United States,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Gabriel,California,United States,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,San Gabriel,California,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Santa Cruz,California,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Santa Cruz,California,United States,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Santa Monica,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Santa Monica,California,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Seaford,Victoria,Australia,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Seaford,Victoria,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Seattle,Washington,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Seattle,Washington,United States,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sedro Woolley,Washington,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sedro Woolley,Washington,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sèvres,Hauts de Seine,France,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Shawnee,British Columbia,Canada,13,454.87,36.3896,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Shawnee,British Columbia,Canada,13,454.87,36.3896,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Silverwater,New South Wales,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Silverwater,New South Wales,Australia,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Solingen,Nordrhein-Westfalen,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Solingen,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sooke,British Columbia,Canada,12,419.88,33.5904,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sooke,British Columbia,Canada,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,South Melbourne,Victoria,Australia,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,South Melbourne,Victoria,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Spokane,Washington,United States,7,244.93,19.5944,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Spokane,Washington,United States,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Spring Valley,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Spring Valley,California,United States,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Springwood,New South Wales,Australia,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Springwood,New South Wales,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,St. Leonards,New South Wales,Australia,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,St. Leonards,New South Wales,Australia,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Stoke-on-Trent,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Stoke-on-Trent,England,United Kingdom,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Stuttgart,Saarland,Germany,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Stuttgart,Saarland,Germany,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sulzbach Taunus,Saarland,Germany,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sunbury,Victoria,Australia,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sunbury,Victoria,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Suresnes,Hauts de Seine,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Suresnes,Hauts de Seine,France,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sydney,New South Wales,Australia,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Sydney,New South Wales,Australia,10,349.9,27.992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Tacoma,Washington,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Tacoma,Washington,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Torrance,California,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Torrance,California,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Townsville,Queensland,Australia,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Townsville,Queensland,Australia,7,244.93,19.5944,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Tremblay-en-France,Seine Saint Denis,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Tremblay-en-France,Seine Saint Denis,France,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Vancouver,British Columbia,Canada,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Vancouver,British Columbia,Canada,11,384.89,30.7912,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Verrieres Le Buisson,Essonne,France,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Verrieres Le Buisson,Essonne,France,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Versailles,Yveline,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Versailles,Yveline,France,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Victoria,British Columbia,Canada,10,349.9,27.992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Victoria,British Columbia,Canada,14,489.86,39.1888,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Villeneuve-d'Ascq,Nord,France,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Villeneuve-d'Ascq,Nord,France,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,W. Linn,Oregon,United States,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,W. Linn,Oregon,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,W. York,England,United Kingdom,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,W. York,England,United Kingdom,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Walla Walla,Washington,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Walla Walla,Washington,United States,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Warrington,England,United Kingdom,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Warrington,England,United Kingdom,11,384.89,30.7912,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Warrnambool,Victoria,Australia,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Warrnambool,Victoria,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Watford,England,United Kingdom,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Watford,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Werne,Nordrhein-Westfalen,Germany,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Werne,Nordrhein-Westfalen,Germany,5,174.95,13.996,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,West Covina,California,United States,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,West Covina,California,United States,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,West Sussex,England,United Kingdom,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,West Sussex,England,United Kingdom,1,34.99,2.7992,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Westminster,British Columbia,Canada,11,384.89,30.7912,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Westminster,British Columbia,Canada,8,279.92,22.3936,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Wokingham,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Wollongong,New South Wales,Australia,8,279.92,22.3936,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Wollongong,New South Wales,Australia,6,209.94,16.7952,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Woodburn,Oregon,United States,4,139.96,11.1968,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Woodburn,Oregon,United States,2,69.98,5.5984,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Woodland Hills,California,United States,1,34.99,2.7992,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Woodland Hills,California,United States,9,314.91,25.1928,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Woolston,England,United Kingdom,2,69.98,5.5984,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Woolston,England,United Kingdom,3,104.97,8.3976,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Yakima,Washington,United States,3,104.97,8.3976,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,Yakima,Washington,United States,4,139.96,11.1968,2008
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,York,England,United Kingdom,5,174.95,13.996,2007
+217,Sport-100 Helmet, Black,31,Helmets,4,Accessories,York,England,United Kingdom,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Ballard,Washington,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Ballard,Washington,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Basingstoke Hants,England,United Kingdom,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Beaverton,Oregon,United States,8,279.92,22.3936,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Beaverton,Oregon,United States,12,419.88,33.5904,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bellflower,California,United States,9,314.91,25.1928,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bellflower,California,United States,14,489.86,39.1888,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bellingham,Washington,United States,8,279.92,22.3936,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bellingham,Washington,United States,17,594.83,47.5864,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bendigo,Victoria,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bendigo,Victoria,Australia,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berkeley,California,United States,9,314.91,25.1928,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berkeley,California,United States,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berks,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berks,England,United Kingdom,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berkshire,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berlin,Hamburg,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berlin,Hessen,Germany,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berlin,Hessen,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berlin,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berlin,Nordrhein-Westfalen,Germany,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berlin,Saarland,Germany,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Berlin,Saarland,Germany,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Beverly Hills,California,United States,10,349.9,27.992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Beverly Hills,California,United States,15,524.85,41.988,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Billericay,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Billericay,England,United Kingdom,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Billings,Montana,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Birmingham,England,United Kingdom,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Birmingham,England,United Kingdom,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bobigny,Seine Saint Denis,France,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bobigny,Seine Saint Denis,France,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bonn,Hamburg,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bonn,Hamburg,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bonn,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bonn,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bottrop,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bottrop,Nordrhein-Westfalen,Germany,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Boulogne-Billancourt,Hauts de Seine,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Boulogne-sur-Mer,Pas de Calais,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Boulogne-sur-Mer,Pas de Calais,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bracknell,England,United Kingdom,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bracknell,England,United Kingdom,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Branson,Missouri,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Braunschweig,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bremerton,Washington,United States,8,279.92,22.3936,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bremerton,Washington,United States,10,349.9,27.992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Brisbane,Queensland,Australia,10,349.9,27.992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Brisbane,Queensland,Australia,11,384.89,30.7912,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burbank,California,United States,8,279.92,22.3936,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burbank,California,United States,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burien,Washington,United States,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burien,Washington,United States,14,489.86,39.1888,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burlingame,California,United States,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burlingame,California,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burnaby,British Columbia,Canada,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Burnaby,British Columbia,Canada,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bury,England,United Kingdom,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Bury,England,United Kingdom,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Caloundra,Queensland,Australia,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Caloundra,Queensland,Australia,10,349.9,27.992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Camarillo,California,United States,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cambridge,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cergy,Val d'Oise,France,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cergy,Val d'Oise,France,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Chatou,Yveline,France,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Chatou,Yveline,France,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cheltenham,England,United Kingdom,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cheltenham,England,United Kingdom,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Chicago,Illinois,United States,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Chula Vista,California,United States,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Chula Vista,California,United States,10,349.9,27.992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cincinnati,Ohio,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Clackamas,Oregon,United States,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Clearwater,Florida,United States,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cliffside,British Columbia,Canada,12,419.88,33.5904,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cliffside,British Columbia,Canada,19,664.81,53.1848,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cloverdale,South Australia,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cloverdale,South Australia,Australia,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Coffs Harbour,New South Wales,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Coffs Harbour,New South Wales,Australia,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Colma,California,United States,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Colma,California,United States,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Colombes,Hauts de Seine,France,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Colombes,Hauts de Seine,France,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Colomiers,Garonne (Haute),France,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Concord,California,United States,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Concord,California,United States,10,349.9,27.992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Coronado,California,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Coronado,California,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Corvallis,Oregon,United States,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Corvallis,Oregon,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Courbevoie,Hauts de Seine,France,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cranbourne,Victoria,Australia,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Cranbourne,Victoria,Australia,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Croix,Nord,France,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Croix,Nord,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Daly City,California,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Daly City,California,United States,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Darlinghurst,New South Wales,Australia,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Darlinghurst,New South Wales,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Darmstadt,Hessen,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Darmstadt,Hessen,Germany,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Downey,California,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Downey,California,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Drancy,Seine Saint Denis,France,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Drancy,Seine Saint Denis,France,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Dresden,Hessen,Germany,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Dresden,Hessen,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Duesseldorf,Hessen,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Duesseldorf,Hessen,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Dunkerque,Nord,France,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Dunkerque,Nord,France,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,East Brisbane,Queensland,Australia,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,East Brisbane,Queensland,Australia,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Edmonds,Washington,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Edmonds,Washington,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Eilenburg,Brandenburg,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Eilenburg,Brandenburg,Germany,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,El Cajon,California,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,El Cajon,California,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Erlangen,Bayern,Germany,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Erlangen,Bayern,Germany,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Esher-Molesey,England,United Kingdom,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Esher-Molesey,England,United Kingdom,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Essen,Hamburg,Germany,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Essen,Hamburg,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Everett,Washington,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Everett,Washington,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Findon,South Australia,Australia,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Findon,South Australia,Australia,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Frankfurt,Bayern,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Frankfurt,Bayern,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Frankfurt,Hessen,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Frankfurt,Hessen,Germany,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Frankfurt am Main,Hamburg,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Frankfurt am Main,Saarland,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Frankfurt am Main,Saarland,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Fremont,California,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Fremont,California,United States,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Gateshead,England,United Kingdom,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Gateshead,England,United Kingdom,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Geelong,Victoria,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Geelong,Victoria,Australia,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Glendale,California,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Glendale,California,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Gloucestershire,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Gloucestershire,England,United Kingdom,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Gold Coast,Queensland,Australia,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Gold Coast,Queensland,Australia,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Goulburn,New South Wales,Australia,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Goulburn,New South Wales,Australia,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Grevenbroich,Bayern,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Grevenbroich,Bayern,Germany,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Grossmont,California,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Grossmont,California,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hamburg,Hamburg,Germany,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hamburg,Hamburg,Germany,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hamburg,Hessen,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hamburg,Hessen,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Haney,British Columbia,Canada,10,349.9,27.992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Haney,British Columbia,Canada,10,349.9,27.992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hannover,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hannover,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hawthorne,Queensland,Australia,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hawthorne,Queensland,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hervey Bay,Queensland,Australia,8,279.92,22.3936,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hervey Bay,Queensland,Australia,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,High Wycombe,England,United Kingdom,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,High Wycombe,England,United Kingdom,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hobart,Tasmania,Australia,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hobart,Tasmania,Australia,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hof,Bayern,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Hof,Bayern,Germany,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Imperial Beach,California,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Imperial Beach,California,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Ingolstadt,Bayern,Germany,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Ingolstadt,Bayern,Germany,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Issaquah,Washington,United States,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Issaquah,Washington,United States,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kassel,Hessen,Germany,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kassel,Hessen,Germany,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kiel,Saarland,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kiel,Saarland,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kirkby,England,United Kingdom,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kirkby,England,United Kingdom,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kirkland,Washington,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Kirkland,Washington,United States,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,La Jolla,California,United States,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,La Jolla,California,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lake Oswego,Oregon,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lake Oswego,Oregon,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lakewood,California,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lakewood,California,United States,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lancaster,England,United Kingdom,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lancaster,England,United Kingdom,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lane Cove,New South Wales,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lane Cove,New South Wales,Australia,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Langford,British Columbia,Canada,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Langford,British Columbia,Canada,10,349.9,27.992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Langley,British Columbia,Canada,12,419.88,33.5904,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Langley,British Columbia,Canada,11,384.89,30.7912,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lavender Bay,New South Wales,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lavender Bay,New South Wales,Australia,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lebanon,Oregon,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lebanon,Oregon,United States,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Leeds,England,United Kingdom,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Leeds,England,United Kingdom,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Leipzig,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lemon Grove,California,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lemon Grove,California,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Les Ulis,Essonne,France,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Les Ulis,Essonne,France,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lieusaint,Seine et Marne,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lille,Nord,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lincoln Acres,California,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lincoln Acres,California,United States,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Liverpool,England,United Kingdom,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Liverpool,England,United Kingdom,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,London,England,United Kingdom,24,839.76,67.1808,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,London,England,United Kingdom,34,1189.66,95.1728,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Long Beach,California,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Long Beach,California,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Los Angeles,California,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Los Angeles,California,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lynnwood,Washington,United States,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Lynnwood,Washington,United States,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Maidenhead,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Maidenhead,England,United Kingdom,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Malabar,New South Wales,Australia,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Malabar,New South Wales,Australia,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Marysville,Washington,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Marysville,Washington,United States,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Matraville,New South Wales,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Matraville,New South Wales,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Melbourne,Victoria,Australia,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Melbourne,Victoria,Australia,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Melton,Victoria,Australia,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Melton,Victoria,Australia,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Metchosin,British Columbia,Canada,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Metchosin,British Columbia,Canada,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Metz,Moselle,France,13,454.87,36.3896,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Mill Valley,California,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Mill Valley,California,United States,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Milsons Point,New South Wales,Australia,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Milton Keynes,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Milton Keynes,England,United Kingdom,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Milwaukie,Oregon,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Milwaukie,Oregon,United States,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Morangis,Essonne,France,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Mühlheim,Hamburg,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,München,Hamburg,Germany,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,München,Hamburg,Germany,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,München,Hessen,Germany,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,München,Hessen,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,München,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,München,Nordrhein-Westfalen,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Münster,Saarland,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Münster,Saarland,Germany,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,N. Vancouver,British Columbia,Canada,9,314.91,25.1928,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,N. Vancouver,British Columbia,Canada,14,489.86,39.1888,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,National City,California,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,National City,California,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Neunkirchen,Saarland,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newcastle,New South Wales,Australia,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newcastle,New South Wales,Australia,10,349.9,27.992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newcastle upon Tyne,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newcastle upon Tyne,England,United Kingdom,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newport Beach,California,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newport Beach,California,United States,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newton,British Columbia,Canada,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Newton,British Columbia,Canada,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,North Ryde,New South Wales,Australia,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,North Ryde,New South Wales,Australia,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,North Sydney,New South Wales,Australia,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,North Sydney,New South Wales,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Novato,California,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Novato,California,United States,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oak Bay,British Columbia,Canada,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oak Bay,British Columbia,Canada,11,384.89,30.7912,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oakland,California,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oakland,California,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Offenbach,Saarland,Germany,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Olympia,Washington,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Olympia,Washington,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oregon City,Oregon,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oregon City,Oregon,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Orleans,Loiret,France,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Orleans,Loiret,France,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Orly,Val de Marne,France,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Orly,Val de Marne,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oxford,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oxford,England,United Kingdom,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Oxon,England,United Kingdom,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paderborn,Hamburg,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paderborn,Hamburg,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paderborn,Nordrhein-Westfalen,Germany,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paderborn,Nordrhein-Westfalen,Germany,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Palo Alto,California,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Palo Alto,California,United States,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Pantin,Seine Saint Denis,France,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Pantin,Seine Saint Denis,France,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paris,Seine (Paris),France,16,559.84,44.7872,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paris,Seine (Paris),France,20,699.8,55.984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paris La Defense,Hauts de Seine,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Paris La Defense,Hauts de Seine,France,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Perth,South Australia,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Perth,South Australia,Australia,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Peterborough,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Peterborough,England,United Kingdom,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Poing,Saarland,Germany,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Poing,Saarland,Germany,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Port Hammond,British Columbia,Canada,12,419.88,33.5904,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Port Hammond,British Columbia,Canada,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Port Macquarie,New South Wales,Australia,8,279.92,22.3936,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Port Macquarie,New South Wales,Australia,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Port Orchard,Washington,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Port Orchard,Washington,United States,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Portland,Oregon,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Portland,Oregon,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Puyallup,Washington,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Puyallup,Washington,United States,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Reading,England,United Kingdom,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Reading,England,United Kingdom,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Redmond,Washington,United States,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Redmond,Washington,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Redwood City,California,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Redwood City,California,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Renton,Washington,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Renton,Washington,United States,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Rhodes,New South Wales,Australia,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Rhodes,New South Wales,Australia,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Rockhampton,Queensland,Australia,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Rockhampton,Queensland,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Roissy en Brie,Seine et Marne,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Roissy en Brie,Seine et Marne,France,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Roncq,Nord,France,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Roncq,Nord,France,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Roubaix,Nord,France,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Roubaix,Nord,France,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Royal Oak,British Columbia,Canada,12,419.88,33.5904,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Royal Oak,British Columbia,Canada,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Runcorn,England,United Kingdom,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Runcorn,England,United Kingdom,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saarbrücken,Saarland,Germany,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saarlouis,Saarland,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saarlouis,Saarland,Germany,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint Germain en Laye,Yveline,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint Germain en Laye,Yveline,France,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint Ouen,Charente-Maritime,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint Ouen,Charente-Maritime,France,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint Ouen,Loir et Cher,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint Ouen,Loir et Cher,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint Ouen,Somme,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint-Denis,Seine Saint Denis,France,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Saint-Denis,Seine Saint Denis,France,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Salem,Oregon,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Salem,Oregon,United States,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Salzgitter,Hessen,Germany,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Carlos,California,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Carlos,California,United States,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Diego,California,United States,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Diego,California,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Francisco,California,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Francisco,California,United States,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Gabriel,California,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,San Gabriel,California,United States,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Santa Cruz,California,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Santa Cruz,California,United States,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Santa Monica,California,United States,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Santa Monica,California,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Seaford,Victoria,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Seaford,Victoria,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Seattle,Washington,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Seattle,Washington,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sedro Woolley,Washington,United States,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sedro Woolley,Washington,United States,7,244.93,19.5944,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sèvres,Hauts de Seine,France,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sèvres,Hauts de Seine,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Shawnee,British Columbia,Canada,6,209.94,16.7952,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Shawnee,British Columbia,Canada,14,489.86,39.1888,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Silverwater,New South Wales,Australia,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Silverwater,New South Wales,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Solingen,Nordrhein-Westfalen,Germany,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sooke,British Columbia,Canada,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sooke,British Columbia,Canada,15,524.85,41.988,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,South Melbourne,Victoria,Australia,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,South Melbourne,Victoria,Australia,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Spokane,Washington,United States,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Spokane,Washington,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Spring Valley,California,United States,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Spring Valley,California,United States,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Springwood,New South Wales,Australia,3,104.97,8.3976,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Springwood,New South Wales,Australia,4,139.96,11.1968,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,St. Leonards,New South Wales,Australia,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,St. Leonards,New South Wales,Australia,3,104.97,8.3976,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Stoke-on-Trent,England,United Kingdom,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Stoke-on-Trent,England,United Kingdom,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Stuttgart,Saarland,Germany,1,34.99,2.7992,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Stuttgart,Saarland,Germany,2,69.98,5.5984,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sulzbach Taunus,Saarland,Germany,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sulzbach Taunus,Saarland,Germany,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sunbury,Victoria,Australia,4,139.96,11.1968,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sunbury,Victoria,Australia,17,594.83,47.5864,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Suresnes,Hauts de Seine,France,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Suresnes,Hauts de Seine,France,1,34.99,2.7992,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sydney,New South Wales,Australia,7,244.93,19.5944,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Sydney,New South Wales,Australia,9,314.91,25.1928,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Tacoma,Washington,United States,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Tacoma,Washington,United States,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Torrance,California,United States,8,279.92,22.3936,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Townsville,Queensland,Australia,5,174.95,13.996,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Townsville,Queensland,Australia,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Tremblay-en-France,Seine Saint Denis,France,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Tremblay-en-France,Seine Saint Denis,France,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Vancouver,British Columbia,Canada,2,69.98,5.5984,2007
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Vancouver,British Columbia,Canada,6,209.94,16.7952,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Verrieres Le Buisson,Essonne,France,5,174.95,13.996,2008
+222,Sport-100 Helmet, Blue,31,Helmets,4,Accessories,Versailles,Yveline,France,4,139.96,11.1968,2007

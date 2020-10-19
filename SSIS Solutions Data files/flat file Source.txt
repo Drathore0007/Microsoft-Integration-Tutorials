@@ -1,0 +1,101 @@
+Customerkey,Customer,City,State,Country,Purchage,Paid_tax
+11000,Jon V Yang,Rockhampton,Queensland,Australia,8248.99,659.9192
+11001,Eugene L Huang,Seaford,Victoria,Australia,6383.88,510.7104
+11002,,Hobart,Tasmania,Australia,8114.04,649.1232
+11003,,North Ryde,New South Wales,Australia,8139.29,651.1432
+11004,,Wollongong,New South Wales,Australia,8196.01,655.6808
+11005,,East Brisbane,Queensland,Australia,8121.33,649.7064
+11006,Janet G Alvarez,Matraville,New South Wales,Australia,8119.03,649.5224
+11007,,Warrnambool,Victoria,Australia,8211,656.88
+11008,,Bendigo,Victoria,Australia,8106.31,648.5048
+11009,Shannon C Carlson,Hervey Bay,Queensland,Australia,8091.33,647.3064
+11010,Jacquelyn C Suarez,East Brisbane,Queensland,Australia,8088.04,647.0432
+11011,,East Brisbane,Queensland,Australia,8133.04,650.6432
+11012,Lauren M Walker,Bremerton,Washington,United States,81.26,6.5008
+11013,Ian M Jenkins,Lebanon,Oregon,United States,113.96,9.1168
+11014,,Redmond,Washington,United States,138.45,11.076
+11015,,Burbank,California,United States,2500.97,200.0776
+11016,Wyatt L Hill,Imperial Beach,California,United States,2332.28,186.5824
+11017,,Sunbury,Victoria,Australia,6434.31,514.7448
+11018,Clarence D Rai,Bendigo,Victoria,Australia,6533.28,522.6624
+11019,Luke L Lal,Langley,British Columbia,Canada,882.7,70.616
+11020,Jordan C King,Metchosin,British Columbia,Canada,2316.97,185.3576
+11021,,Beaverton,Oregon,United States,2371.96,189.7568
+11022,Ethan G Zhang,Bellingham,Washington,United States,2322.28,185.7824
+11023,Seth M Edwards,Bellflower,California,United States,122.24,9.7792
+11024,,Concord,California,United States,56.51,4.5208
+11025,,Hawthorne,Queensland,Australia,6576.8,526.144
+11026,,Goulburn,New South Wales,Australia,6575.79,526.0632
+11027,Jessie R Zhao,Warrnambool,Victoria,Australia,6591.57,527.3256
+11028,,St. Leonards,New South Wales,Australia,6474.62,517.9696
+11029,Jimmy L Moreno,Bendigo,Victoria,Australia,6565.29,525.2232
+11030,Bethany G Yuan,Cloverdale,South Australia,Australia,6471.32,517.7056
+11031,Theresa G Ramos,Matraville,New South Wales,Australia,6478.6,518.288
+11032,,Melbourne,Victoria,Australia,6525.56,522.0448
+11033,,Milsons Point,New South Wales,Australia,6495.29,519.6232
+11034,,North Sydney,New South Wales,Australia,6491.32,519.3056
+11035,,Cranbourne,Victoria,Australia,6451.31,516.1048
+11036,Jennifer C Russell,National City,California,United States,2354.98,188.3984
+11037,Chloe M Garcia,Cliffside,British Columbia,Canada,2374.23,189.9384
+11038,Diana F Hernandez,Lavender Bay,New South Wales,Australia,6437.33,514.9864
+11039,Marc J Martin,Wollongong,New South Wales,Australia,6636.58,530.9264
+11040,,Tacoma,Washington,United States,2350.96,188.0768
+11041,Amanda M Carter,Glendale,California,United States,2380.47,190.4376
+11042,Megan J Sanchez,Los Angeles,California,United States,3112.33,248.9864
+11043,Nathan M Simmons,Glendale,California,United States,47.98,3.8384
+11044,Adam L Flores,Hervey Bay,Queensland,Australia,6515.3,521.224
+11045,Leonard G Nara,Matraville,New South Wales,Australia,114.96,9.1968
+11046,,Lavender Bay,New South Wales,Australia,6616.81,529.3448
+11047,Jaclyn D Lu,Geelong,Victoria,Australia,6582.33,526.5864
+11048,,Sunbury,Victoria,Australia,6498.24,519.8592
+11049,Carol C Rai,Chula Vista,California,United States,81.26,6.5008
+11050,,Hobart,Tasmania,Australia,5007.3,400.584
+11051,,Caloundra,Queensland,Australia,123.95,9.916
+11052,,Matraville,New South Wales,Australia,8131.32,650.5056
+11053,Ana E Price,San Diego,California,United States,2329.98,186.3984
+11054,,Geelong,Victoria,Australia,8223.02,657.8416
+11055,,East Brisbane,Queensland,Australia,8168.01,653.4408
+11056,Michele L Nath,Newcastle,New South Wales,Australia,8207.5,656.6
+11057,Carl J Andersen,Lane Cove,New South Wales,Australia,8088.04,647.0432
+11058,,Findon,South Australia,Australia,8248.02,659.8416
+11059,Ashlee J Andersen,Townsville,Queensland,Australia,116.93,9.3544
+11060,Jon L Zhou,Warrnambool,Victoria,Australia,8153.02,652.2416
+11061,Todd M Gao,Gold Coast,Queensland,Australia,8129.02,650.3216
+11062,Noah D Powell,Portland,Oregon,United States,2351.96,188.1568
+11063,,Redmond,Washington,United States,2372.95,189.836
+11064,,Downey,California,United States,2304.98,184.3984
+11065,,La Jolla,California,United States,202.57,16.2056
+11066,Grace T Butler,Lebanon,Oregon,United States,81.26,6.5008
+11067,Caleb F Carter,Port Orchard,Washington,United States,105.75,8.46
+11068,,Warrnambool,Victoria,Australia,113.36,9.0688
+11069,,Gold Coast,Queensland,Australia,8104.05,648.324
+11070,Willie T Raji,Sunbury,Victoria,Australia,8165.55,653.244
+11071,,Hawthorne,Queensland,Australia,110.23,8.8184
+11072,,St. Leonards,New South Wales,Australia,8194,655.52
+11073,,Springwood,New South Wales,Australia,191.9,15.352
+11074,Levi A Arun,Cloverdale,South Australia,Australia,94.19,7.5352
+11075,Felicia L Jimenez,Bendigo,Victoria,Australia,8068.03,645.4424
+11076,,Wollongong,New South Wales,Australia,8159.04,652.7232
+11077,,Melton,Victoria,Australia,8169.03,653.5224
+11078,Gina E Martin,Cliffside,British Columbia,Canada,913.27,73.0616
+11079,,Geelong,Victoria,Australia,57.95,4.636
+11080,,Perth,South Australia,Australia,8204.02,656.3216
+11081,Savannah C Baker,Concord,California,United States,104.26,8.3408
+11082,Angela L Butler,Fremont,California,United States,3110.81,248.8648
+11083,Alyssa F Cox,Lincoln Acres,California,United States,3137.32,250.9856
+11084,,Lebanon,Oregon,United States,3078.61,246.2888
+11085,,Newport Beach,California,United States,128.96,10.3168
+11086,,Santa Monica,California,United States,153.45,12.276
+11087,Tamara L Liang,Chula Vista,California,United States,200.28,16.0224
+11088,,San Diego,California,United States,3176.78,254.1424
+11089,Abigail M Price,Long Beach,California,United States,3188.28,255.0624
+11090,,Los Angeles,California,United States,6704.08,536.3264
+11091,,Haney,British Columbia,Canada,1189.33,95.1464
+11092,Cheryl A Diaz,East Brisbane,Queensland,Australia,8110.02,648.8016
+11093,Aimee A He,Wollongong,New South Wales,Australia,8180,654.4
+11094,Cedric W Ma,Cranbourne,Victoria,Australia,235.89,18.8712
+11095,,Port Macquarie,New South Wales,Australia,8158.01,652.6408
+11096,,North Sydney,New South Wales,Australia,8063.04,645.0432
+11097,Edwin R Nara,Warrnambool,Victoria,Australia,8099.03,647.9224
+11098,Mallory S Rubio,Rhodes,New South Wales,Australia,88.96,7.1168
+11099,,Port Macquarie,New South Wales,Australia,8215.99,657.2792

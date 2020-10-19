@@ -1,0 +1,4 @@
+CustomerKey	Customer	City	State	Country	Purchage	Paid_tax
+11000	Jon V Yang	Rockhampton	Queensland	Australia	8248.99	659.9192
+11001	Eugene L Huang	Seaford	Victoria	Australia	6383.88	510.7104
+11002		Hobart	Tasmania	Australia	8114.04	649.1232

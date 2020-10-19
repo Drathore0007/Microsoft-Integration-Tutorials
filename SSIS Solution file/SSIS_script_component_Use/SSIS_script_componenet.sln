@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_script_componenet", "SSIS_script_componenet\SSIS_script_componenet.dtproj", "{1E304651-FD7B-4D71-9356-218C5C24C072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E304651-FD7B-4D71-9356-218C5C24C072}.Development|Default.ActiveCfg = Development
+		{1E304651-FD7B-4D71-9356-218C5C24C072}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
